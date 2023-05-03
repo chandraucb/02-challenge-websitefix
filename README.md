@@ -1,4 +1,4 @@
-# 02-challenge-websitefix-project
+# 01-HTML-Git-CSS 02-challenge-websitefix-project
 
 ## Description
 
