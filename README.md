@@ -4,7 +4,7 @@
 
 Horiseon Social Solution Services, Inc website provide marketing details for various services such as Search Engine Optimization, Online Reputation Management, Social Media Marketing 
 
-![SEO](./assets/images/search-engine-optimization.jpg)
+![Screenshot](./assets/images/screenshot.png)
 
 
 This is a refactor project to improve the web accessibility by using semantic html tags and act as a sample website for clients.
