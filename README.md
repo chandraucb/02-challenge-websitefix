@@ -1,6 +1,6 @@
 # 02-challenge-websitefix
 
-Horiseon Social Solution Services, Inc website provides marketing details for various services such as Search Engine Optimization, Online Reputation Management, Social Media Marketing 
+Horiseon Social Solution Services, Inc website provide marketing details for various services such as Search Engine Optimization, Online Reputation Management, Social Media Marketing 
 
 ![Screenshot](./assets/images/search-engine-optimization.jpg)
 
