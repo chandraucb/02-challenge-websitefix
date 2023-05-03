@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Set width 100% */
 .header {
    position: fixed;
     padding: 20px;
@@ -26,6 +26,8 @@ body {
     color: #d9dcd6;
 }
 
+/* Updated div to nav for style selection so that they are applied properly*/
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,6 +35,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
+/* Updated div to ul li for style selection so that they are applied properly*/
 
 .header nav ul li {
     display: inline-block;
