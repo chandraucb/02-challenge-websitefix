@@ -2,7 +2,7 @@
 
 Horiseon Social Solution Services, Inc website sample for 
 Search Engine Optimization
-(./assets/images/search-engine-optimization.jpg)
+(assets/images/search-engine-optimization.jpg)
 Online Reputation Management
 Social Media Marketing 
 
